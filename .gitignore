@@ -1,0 +1,6 @@
+ .idea/
+config.php
+composer.lock
+vendor/
+sql/*.sql
+import/*.xlsx
